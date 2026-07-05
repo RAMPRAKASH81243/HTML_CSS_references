@@ -1,5 +1,3 @@
 # Html Reference from bro code
 ## Link
-```bash
-git clone https://github.com 
-```
+Connect with me on [LinkedIn](https://linkedin.com).
